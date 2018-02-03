@@ -1,0 +1,11 @@
+\select@language {russian}
+\beamer@sectionintoc {1}{course}{2}{0}{1}
+\beamer@sectionintoc {2}{Phonetics}{3}{0}{2}
+\beamer@sectionintoc {3}{SHM}{4}{0}{3}
+\beamer@sectionintoc {4}{Sound}{6}{0}{4}
+\beamer@sectionintoc {5}{Phase}{7}{0}{5}
+\beamer@sectionintoc {6}{Harmonic motion}{10}{0}{6}
+\beamer@sectionintoc {7}{Addition of waves}{12}{0}{7}
+\beamer@sectionintoc {8}{Spectrogram}{17}{0}{8}
+\beamer@sectionintoc {9}{Source-Filter Model}{24}{0}{9}
+\beamer@sectionintoc {10}{Summary}{25}{0}{10}
