@@ -9,8 +9,9 @@ Final Mark =0.6 $\times$ (HW) + 0.4 $\times$ (Exam)
 ### 1. Introduction to Acoustic Phonetics
 * (20.05.2017)	[Lec 1](https://goo.gl/RSz84p)
 * (20.05.2017)	Lab 1: [Praat](http://www.fon.hum.uva.nl/praat/). Symbols for [consonats](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__consonants_1.png), [vowels](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__vowels_1.png) and [diacritics](http://www.fon.hum.uva.nl/praat/manual/Phonetic_symbols__diacritics.html)
-* [HW 1]
-
+* HW 1 (due to 10.02.2018): 
+      * Create the  annotation for [this sound file](https://github.com/agricolamz/2018_m_Instrumental_Phonetics/blob/master/docs/materials/andi_plosives.wav?raw=true) containing words *bek':ub* (hot), *wuk:udu* (fall down), *tʃ'ek'a* (foot) and *t'uka* (goat). Here is [an example](https://raw.githubusercontent.com/agricolamz/2018_m_Instrumental_Phonetics/master/docs/hw1.png).
+      * Send the `.TextGrid` file to the course assistant [Aygul Zakirova](mailto:atgz@mail.ru) with topic `Instrumental Phonetics: HW 1`
 
 ### 2. Vowels. Formants
 * (27.05.2017)	[Lec 2]()
