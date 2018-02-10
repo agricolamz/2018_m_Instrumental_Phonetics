@@ -14,8 +14,7 @@ Final Mark =0.6 $\times$ (HW) + 0.4 $\times$ (Exam)
       * Send the `.TextGrid` file to the course assistant [Aygul Zakirova](mailto:atgz@mail.ru) with topic `Instrumental Phonetics: HW 1`
 
 ### 2. Vowels. Formants
-* (10.02.2017)	[Lec 2]()
-* (10.02.2017)	[Lab 2]()
+* (10.02.2017)	[Lec 2](https://goo.gl/HUrRuk)
 * [sound](https://goo.gl/IzpUyo)
 * [TextGrid](https://goo.gl/4tGthZ)
 * [extracted formant values](https://goo.gl/zPm7Od)
