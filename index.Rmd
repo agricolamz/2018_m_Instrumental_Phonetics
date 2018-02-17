@@ -23,8 +23,8 @@ Final Mark =0.6 $\times$ (HW) + 0.4 $\times$ (Exam)
 * [R script for the visualisation of duration](https://raw.githubusercontent.com/agricolamz/2018_m_Instrumental_Phonetics/master/docs/materials/plot_duration.R)
 
 ### 3. Sonorants
-* ()	[Lec 3]()
-* ()	[Lab 3]()
+* (17.02.2018)	[Lec 3](https://github.com/agricolamz/2018_m_Instrumental_Phonetics/raw/master/docs/18.02.17_Sonorants.pdf)
+* (17.02.2018)	[Lab 3](https://github.com/agricolamz/2018_m_Instrumental_Phonetics/raw/master/docs/18.02.17_Sonorants_sem_3.pdf)
 * [Andi nasals](https://goo.gl/5D9DNR)
 
 ### 4. Obstruents
