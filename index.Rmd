@@ -20,7 +20,7 @@ Final Mark =0.6 $\times$ (HW) + 0.4 $\times$ (Exam)
 * [extracted formant values](https://goo.gl/zPm7Od)
 * [Lennes M. (2002) Calculate segment durations](http://www.helsinki.fi/%7Elennes/praat-scripts/public/calculate_segment_durations.praat)
 * [Kawahara (??) Extract formant chart](https://goo.gl/MUBpPw)
-* [R script for formant visualisation](https://goo.gl/8weIeL)
+* [R script for the visualisation of duration](https://raw.githubusercontent.com/agricolamz/2018_m_Instrumental_Phonetics/master/docs/materials/plot_duration.R)
 
 ### 3. Sonorants
 * ()	[Lec 3]()
@@ -41,8 +41,10 @@ Final Mark =0.6 $\times$ (HW) + 0.4 $\times$ (Exam)
 ### 6. Final Exam
 * () [Tasks]()
   
-Reference:
+### Useful links
+* [the real-time MRI IPA charts](http://sail.usc.edu/span/rtmri_ipa/index.html)
 
+### Reference:
 * Ashby, M., J. Maidment (2005). Introducing phonetic science. Cambridge University Press.
 * Bickford, A. C., R. Floyd (2006). Articulatory Phonetics: Tools for Analyzing the World’s Languages SIL International. 
 * Boersma,  P.,  D.  Weenink  (2013). Praat:    doing  phonetics  by  computer  (version 5.3.51)[computer program]. retrieved 2 june 2013.
