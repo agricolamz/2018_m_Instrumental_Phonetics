@@ -28,18 +28,18 @@ Final Mark =0.6 $\times$ (HW) + 0.4 $\times$ (Exam)
 * [Andi nasals](https://goo.gl/5D9DNR)
 
 ### 4. Obstruents
-* ()	[Lec 4]()
-* ()	[Lab 4]()
+* ()	[Lec 4](https://goo.gl/3Nw0x1)
+* ()	[Lab 4](https://github.com/agricolamz/2018_m_Instrumental_Phonetics/raw/master/docs/18.02.24_Obstruents_sem_4.pdf)
 * [fricatives](https://goo.gl/hvdviI), [fricatives' TextGrid](https://goo.gl/pza6tx), Extracted data: [ɬ](https://goo.gl/wo3QZN), [s](https://goo.gl/eNZQKa), [sh](https://goo.gl/NgeVSX), [x](https://goo.gl/oDYvbJ), [χ](https://goo.gl/vZQfZG) 
 * [fricatives' R script](https://goo.gl/SdGlZr)
 * [plosives](https://goo.gl/PZA8WY), [plosives' TextGrid](https://goo.gl/1ZFtJt), Extracted data: [plosives' duration](https://goo.gl/NExChs)
 * [plosives' R script](https://goo.gl/g3oPfN)
 
 ### 5. Guess the word 
-* ()	[Lab 5]()
+* ()	Lab 5
 
 ### 6. Final Exam
-* () [Tasks]()
+* () [Example](https://docs.google.com/forms/d/e/1FAIpQLSehWch2hwh2Wr0joZ5ULKw4mQSaE7vq_wuImJbkoz24MTSMkw/viewform)
   
 ### Useful links
 * [the real-time MRI IPA charts](http://sail.usc.edu/span/rtmri_ipa/index.html)
