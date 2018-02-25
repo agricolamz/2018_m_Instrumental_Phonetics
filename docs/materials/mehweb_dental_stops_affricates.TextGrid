@@ -1,0 +1,252 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 29.7491236397736 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "2" 
+        xmin = 0 
+        xmax = 29.7491236397736 
+        intervals: size = 49 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.2349802863283057 
+            text = "" 
+        intervals [2]:
+            xmin = 2.2349802863283057 
+            xmax = 2.398236023247573 
+            text = "cd_t" 
+        intervals [3]:
+            xmin = 2.398236023247573 
+            xmax = 2.431576983604325 
+            text = "vot_t" 
+        intervals [4]:
+            xmin = 2.431576983604325 
+            xmax = 3.672435223501934 
+            text = "" 
+        intervals [5]:
+            xmin = 3.672435223501934 
+            xmax = 3.8311028160414278 
+            text = "cd_t" 
+        intervals [6]:
+            xmin = 3.8311028160414278 
+            xmax = 3.872773092869982 
+            text = "vot_t" 
+        intervals [7]:
+            xmin = 3.872773092869982 
+            xmax = 4.939874158133114 
+            text = "" 
+        intervals [8]:
+            xmin = 4.939874158133114 
+            xmax = 5.077303387407321 
+            text = "cd_t" 
+        intervals [9]:
+            xmin = 5.077303387407321 
+            xmax = 5.122408365220394 
+            text = "vot_t" 
+        intervals [10]:
+            xmin = 5.122408365220394 
+            xmax = 6.485186992040458 
+            text = "" 
+        intervals [11]:
+            xmin = 6.485186992040458 
+            xmax = 6.626387973163499 
+            text = "cd_t" 
+        intervals [12]:
+            xmin = 6.626387973163499 
+            xmax = 6.656114495505192 
+            text = "vot_t" 
+        intervals [13]:
+            xmin = 6.656114495505192 
+            xmax = 10.048951263376052 
+            text = "" 
+        intervals [14]:
+            xmin = 10.048951263376052 
+            xmax = 10.338424845220974 
+            text = "cd_t'" 
+        intervals [15]:
+            xmin = 10.338424845220974 
+            xmax = 10.378731293325963 
+            text = "vot_t'" 
+        intervals [16]:
+            xmin = 10.378731293325963 
+            xmax = 11.27081507954452 
+            text = "" 
+        intervals [17]:
+            xmin = 11.27081507954452 
+            xmax = 11.465108559703795 
+            text = "cd_t'" 
+        intervals [18]:
+            xmin = 11.465108559703795 
+            xmax = 11.51466519634361 
+            text = "vot_t'" 
+        intervals [19]:
+            xmin = 11.51466519634361 
+            xmax = 13.01244172218149 
+            text = "" 
+        intervals [20]:
+            xmin = 13.01244172218149 
+            xmax = 13.200442296100789 
+            text = "cd_t'" 
+        intervals [21]:
+            xmin = 13.200442296100789 
+            xmax = 13.251572159300599 
+            text = "vot_t'" 
+        intervals [22]:
+            xmin = 13.251572159300599 
+            xmax = 14.442106120449518 
+            text = "" 
+        intervals [23]:
+            xmin = 14.442106120449518 
+            xmax = 14.598642163168934 
+            text = "cd_t'" 
+        intervals [24]:
+            xmin = 14.598642163168934 
+            xmax = 14.634039760768802 
+            text = "vot_t'" 
+        intervals [25]:
+            xmin = 14.634039760768802 
+            xmax = 17.05475846274223 
+            text = "" 
+        intervals [26]:
+            xmin = 17.05475846274223 
+            xmax = 17.174323681301786 
+            text = "cd_ts" 
+        intervals [27]:
+            xmin = 17.174323681301786 
+            xmax = 17.282089700661384 
+            text = "vot_ts" 
+        intervals [28]:
+            xmin = 17.282089700661384 
+            xmax = 18.358098215541112 
+            text = "" 
+        intervals [29]:
+            xmin = 18.358098215541112 
+            xmax = 18.472157141140688 
+            text = "cd_ts" 
+        intervals [30]:
+            xmin = 18.472157141140688 
+            xmax = 18.589362519860252 
+            text = "vot_ts" 
+        intervals [31]:
+            xmin = 18.589362519860252 
+            xmax = 19.835146670340706 
+            text = "" 
+        intervals [32]:
+            xmin = 19.835146670340706 
+            xmax = 19.97359060762019 
+            text = "cd_ts" 
+        intervals [33]:
+            xmin = 19.97359060762019 
+            xmax = 20.076636947299804 
+            text = "vot_ts" 
+        intervals [34]:
+            xmin = 20.076636947299804 
+            xmax = 21.355445260359538 
+            text = "" 
+        intervals [35]:
+            xmin = 21.355445260359538 
+            xmax = 21.482876611719064 
+            text = "cd_ts" 
+        intervals [36]:
+            xmin = 21.482876611719064 
+            xmax = 21.570977299078734 
+            text = "vot_ts" 
+        intervals [37]:
+            xmin = 21.570977299078734 
+            xmax = 24.20859492106627 
+            text = "" 
+        intervals [38]:
+            xmin = 24.20859492106627 
+            xmax = 24.36788175664816 
+            text = "cd_ts'" 
+        intervals [39]:
+            xmin = 24.36788175664816 
+            xmax = 24.459220959956227 
+            text = "vot_ts'" 
+        intervals [40]:
+            xmin = 24.459220959956227 
+            xmax = 25.46953003685815 
+            text = "" 
+        intervals [41]:
+            xmin = 25.46953003685815 
+            xmax = 25.62473259460461 
+            text = "cd_ts'" 
+        intervals [42]:
+            xmin = 25.62473259460461 
+            xmax = 25.72547811454529 
+            text = "vot_ts'" 
+        intervals [43]:
+            xmin = 25.72547811454529 
+            xmax = 26.860914542806558 
+            text = "" 
+        intervals [44]:
+            xmin = 26.860914542806558 
+            xmax = 26.987527155704985 
+            text = "cd_ts'" 
+        intervals [45]:
+            xmin = 26.987527155704985 
+            xmax = 27.087591962673095 
+            text = "vot_ts'" 
+        intervals [46]:
+            xmin = 27.087591962673095 
+            xmax = 28.323687902819927 
+            text = "" 
+        intervals [47]:
+            xmin = 28.323687902819927 
+            xmax = 28.430559839513762 
+            text = "cd_ts'" 
+        intervals [48]:
+            xmin = 28.430559839513762 
+            xmax = 28.514287535140138 
+            text = "vot_ts'" 
+        intervals [49]:
+            xmin = 28.514287535140138 
+            xmax = 29.7491236397736 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "3" 
+        xmin = 0 
+        xmax = 29.7491236397736 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.313463578092439 
+            text = "" 
+        intervals [2]:
+            xmin = 1.313463578092439 
+            xmax = 7.601785716807279 
+            text = "batari" 
+        intervals [3]:
+            xmin = 7.601785716807279 
+            xmax = 9.477622992114753 
+            text = "" 
+        intervals [4]:
+            xmin = 9.477622992114753 
+            xmax = 15.53802034310813 
+            text = "tʃat'a" 
+        intervals [5]:
+            xmin = 15.53802034310813 
+            xmax = 16.08634200819801 
+            text = "" 
+        intervals [6]:
+            xmin = 16.08634200819801 
+            xmax = 22.579624884262337 
+            text = "watsa" 
+        intervals [7]:
+            xmin = 22.579624884262337 
+            xmax = 23.913170574345408 
+            text = "" 
+        intervals [8]:
+            xmin = 23.913170574345408 
+            xmax = 29.419023215493183 
+            text = "kats'a" 
+        intervals [9]:
+            xmin = 29.419023215493183 
+            xmax = 29.7491236397736 
+            text = "" 
