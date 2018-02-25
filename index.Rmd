@@ -35,9 +35,9 @@ Final Mark =0.6 $\times$ (HW) + 0.4 $\times$ (Exam)
 * [plosives](https://goo.gl/PZA8WY), [plosives' TextGrid](https://goo.gl/1ZFtJt), Extracted data: [plosives' duration](https://goo.gl/NExChs)
 * [plosives' R script](https://goo.gl/g3oPfN)
 * HW 2 (due to 11.03.2018):
-      * Download [the sound](https://github.com/agricolamz/2018_m_Instrumental_Phonetics/blob/master/docs/materials/mehweb_dental_stops_affricates.wav?raw=true) and the [TextGrid file]()
+      * Download [the sound](https://github.com/agricolamz/2018_m_Instrumental_Phonetics/blob/master/docs/materials/mehweb_dental_stops_affricates.wav?raw=true) and the [TextGrid file](https://raw.githubusercontent.com/agricolamz/2018_m_Instrumental_Phonetics/master/docs/materials/mehweb_dental_stops_affricates.TextGrid)
       * Annotate CD and VOT
-      * Create three pictures with R that we discussed in class (example: [pic 1](), [pic 2](), [pic 3]())
+      * Create three pictures with R that we discussed in class (example: [pic 1](https://raw.githubusercontent.com/agricolamz/2018_m_Instrumental_Phonetics/master/docs/hw2_1.jpeg), [pic 2](https://raw.githubusercontent.com/agricolamz/2018_m_Instrumental_Phonetics/master/docs/hw2_2.jpeg), [pic 3](https://raw.githubusercontent.com/agricolamz/2018_m_Instrumental_Phonetics/master/docs/hw2_3.jpeg))
       * Write a short text analysing results: what is the difference in CD and VOT values between stops and affricates, ejectives and non-ejectives?
       * Send the `.TextGrid` file, pics and text to the course assistant [Aygul Zakirova](mailto:atgz@mail.ru) with topic `Instrumental Phonetics: HW 2`
       
